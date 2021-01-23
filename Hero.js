@@ -1,0 +1,9 @@
+class Hero{
+    constructor(){
+
+    }
+    
+    display(){
+        
+    }
+}
